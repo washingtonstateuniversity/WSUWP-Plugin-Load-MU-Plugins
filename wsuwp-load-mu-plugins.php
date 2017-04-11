@@ -24,5 +24,6 @@ function wsuwp_add_mu_plugins() {
 		'wsuwp-wordpress-dashboard/wsuwp-wordpress-dashboard.php',
 		'bp-multi-network/bp-multi-network.php',
 		'batcache/batcache.php',
+		'rest-filter/rest-filter.php',
 	);
 }
