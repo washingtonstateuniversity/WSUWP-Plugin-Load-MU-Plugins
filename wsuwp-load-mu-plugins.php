@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WSUWP Load MU Plugins
-Version: 0.0.2
+Version: 0.0.3
 Description: Loads a list of mu-plugins.
 Author: washingtonstateuniversity, jeremyfelt
 Author URI: https://web.wsu.edu/
