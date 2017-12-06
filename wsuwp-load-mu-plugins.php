@@ -21,6 +21,7 @@ function wsuwp_add_mu_plugins() {
 		'cavalcade/plugin.php',
 		'wsuwp-mu-extended-batcache/wsuwp-mu-extended-batcache.php',
 		'wsuwp-mu-simple-filters/wsuwp-mu-simple-filters.php',
+		'wsuwp-mu-new-site-defaults/plugin.php',
 		'wsuwp-multiple-networks/wsuwp-multiple-networks.php',
 		'wsuwp-wordpress-dashboard/wsuwp-wordpress-dashboard.php',
 		'bp-multi-network/bp-multi-network.php',
