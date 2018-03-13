@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WSUWP Load MU Plugins
-Version: 0.0.4
+Version: 0.0.5
 Description: Loads a list of mu-plugins.
 Author: washingtonstateuniversity, jeremyfelt
 Author URI: https://web.wsu.edu/
@@ -19,6 +19,7 @@ add_filter( 'wsuwp_load_mu_plugins', 'wsuwp_add_mu_plugins' );
 function wsuwp_add_mu_plugins() {
 	return array(
 		'cavalcade/plugin.php',
+		'wsuwp-mu-cmb2/wsuwp-mu-cmb2.php',
 		'wsuwp-mu-extended-batcache/wsuwp-mu-extended-batcache.php',
 		'wsuwp-mu-simple-filters/wsuwp-mu-simple-filters.php',
 		'wsuwp-mu-new-site-defaults/plugin.php',
